@@ -1,6 +1,6 @@
 
 
-export default function ShoppingList({ dogsList = [] }) {
+export default function dogsList({ dogsList = [] }) {
   return (
     <div className="shopping-cart">
       <h3 style={{ textAlign: "center" }}>
